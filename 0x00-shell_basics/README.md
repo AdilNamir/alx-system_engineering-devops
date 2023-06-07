@@ -1,3 +1,2 @@
-#!/bin/bash
-pwd
-
+ #!/bin/bash
+in -s /bin/ls__ls__
