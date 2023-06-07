@@ -1,2 +1,1 @@
- #!/bin/bash
-in -s /bin/ls__ls__
+readme
